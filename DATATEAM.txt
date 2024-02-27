@@ -1,0 +1,31 @@
+Network Team:
+
+The data team is contingent upon the expertise of the network team to ensure the establishment and maintenance of a robust and reliable network infrastructure. This is indispensable for seamless data transfer, facilitating communication between servers and databases, and accessing external data sources.
+
+Server Team:
+
+The data team relies heavily on the server team for the perpetual maintenance and optimization of the server infrastructure. This encompasses tasks such as server provisioning, meticulous capacity planning, and ensuring that servers are appropriately configured to adeptly handle the processing and storage requirements of data.
+
+DBA Team (Database Administration):
+
+The data team bears a substantial reliance on the DBA team for the proficient management and optimization of databases. This encompasses critical responsibilities such as database setup, configuration, performance tuning, ensuring data integrity, and overseeing the meticulous execution of backups and restores.
+
+Security Team:
+
+Given the paramount importance of security in data handling, the data team is intricately connected with the security team. The data team looks to the security team to implement and administer access controls, encryption methodologies, and other imperative security measures, safeguarding sensitive data.
+
+Development Teams:
+
+In instances where specific applications or tools are under development to bolster data processing or analytics, the data team is contingent upon the proficiency of development teams. These teams are entrusted with the creation and ongoing maintenance of applications that support the data team's operational objectives.
+
+Operations or IT Support:
+
+The data team may necessitate the support and expertise of the operations or IT support team for day-to-day troubleshooting, vigilant system monitoring, and expeditious resolution of any technical challenges that may arise, ensuring uninterrupted data operations.
+
+
+Network setup |   | - Robust network  |
+| - Data transfer |   |   infrastructure  |
+| - Communication |   | - Communication   |
+|   with servers   |   |   support         |
+| - Accessing      |   | - Access to       |
+|   external data  |   |   external sources
